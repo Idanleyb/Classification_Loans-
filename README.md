@@ -2,7 +2,7 @@
 
 **Problem Statement** : Dream Housing Finance company deals in all home loans. They have a presence across all urban, semi-urban, and rural areas. Customer-first applies for a home loan after that company validates the customer eligibility for a loan. 
 
-Our goal is to automate the loan qualification process based on the data giben by the customers' filled applicatoin form. 
+Our goal is to automate the loan qualification process based on the data given by the customers' filled applicatoin form. 
 
 **Data**: Dataset built from the following features : 
 
